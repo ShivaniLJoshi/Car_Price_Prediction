@@ -10,6 +10,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
+gunicorn
 importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
 ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1604083276484/work
